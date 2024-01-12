@@ -1,4 +1,4 @@
 - **SwiftUI**
 - **Combine**
-- **Firebase**\
+- **Firebase**
 - **APNs (Apple Push Notification Service)**
